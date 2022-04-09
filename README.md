@@ -192,7 +192,5 @@ python images2h5.py images/root/folder test.txt --output test.h5 \
 ## Tests
 I added some tests to verify it correctly works. You can run them as well to check everything is fine.
 
-## Troubleshooting
-Please contact me if any problem `pau.rodriguez at uab.cat`
 
 
