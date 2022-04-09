@@ -16,6 +16,16 @@ Extracts features from a pre-trained CNN and trains a LSTM.
 
 ## Citation
 If you use our code, please cite:
+
+```
+@inproceedings{ilyas2018facial,
+  title={Facial expression recognition for traumatic brain injured patients},
+  author={Ilyas, Chaudhary Muhammad Aqdus and Haque, Mohammad Ahsanul and Rehm, Matthias and Nasrollahi, Kamal and Moeslund, Thomas B},
+  booktitle={International Conference on Computer Vision Theory and Applications},
+  pages={522--530},
+  year={2018},
+  organization={SCITEPRESS Digital Library}
+}
 ```
 @article{rodriguez2017deep,
   title={Deep Pain: Exploiting Long Short-Term Memory Networks for Facial Expression Classification},
@@ -25,11 +35,29 @@ If you use our code, please cite:
   publisher={IEEE}
 }
 ```
+@inproceedings{ilyas2018rehabilitation,
+  title={Rehabilitation of traumatic brain injured patients: Patient mood analysis from multimodal video},
+  author={Ilyas, Chaudhary Muhammad Aqdus and Nasrollahi, Kamal and Rehm, Matthias and Moeslund, Thomas B},
+  booktitle={2018 25th IEEE International Conference on Image Processing (ICIP)},
+  pages={2291--2295},
+  year={2018},
+  organization={IEEE}
+}
 
 ## Publications
 The code has been used in the following publications:
 
 ```
+@inproceedings{ilyas2018rehabilitation,
+  title={Rehabilitation of traumatic brain injured patients: Patient mood analysis from multimodal video},
+  author={Ilyas, Chaudhary Muhammad Aqdus and Nasrollahi, Kamal and Rehm, Matthias and Moeslund, Thomas B},
+  booktitle={2018 25th IEEE International Conference on Image Processing (ICIP)},
+  pages={2291--2295},
+  year={2018},
+  organization={IEEE}
+}
+
+
 @article{rodriguez2017deep,
   title={Deep Pain: Exploiting Long Short-Term Memory Networks for Facial Expression Classification},
   author={Rodriguez, Pau and Cucurull, Guillem and Gonz{\`a}lez, Jordi and Gonfaus, Josep M and Nasrollahi, Kamal and Moeslund, Thomas B and Roca, F Xavier},
@@ -37,12 +65,7 @@ The code has been used in the following publications:
   year={2017},
   publisher={IEEE}
 }
-@inproceedings{bellantonio2016spatio,
-  title={Spatio-Temporal Pain Recognition in CNN-based Super-Resolved Facial Images},
-  author={Bellantonio, Marco and Haque, Mohammad A and Rodriguez, Pau and Nasrollahi, Kamal and Telve, Taisi and Escarela, Sergio and Gonzalez, Jordi and Moeslund, Thomas B and Rasti, Pejman and Anbarjafari, Gholamreza},
-  booktitle={International Conference on Pattern Recognition (icpr)},
-  year={2016},
-  organization={Springer}
+
 }
 ```
 
